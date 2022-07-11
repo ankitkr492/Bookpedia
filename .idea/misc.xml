@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable-ldpi/ic_bgtop.xml" value="0.2" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable-ldpi/ic_buttonbg.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable-ldpi/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/background_read_book.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/background_reviews.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/background_selections.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/background_white.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_account.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_book.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_bookmark_reading.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_camera.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_create_black_24dp.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_dislike.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_education.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_go_right.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_home2.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_home_color.xml" value="0.22412280701754386" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_home_new.xml" value="0.22412280701754386" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_like.xml" value="0.22412280701754386" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_like_pink.xml" value="0.22412280701754386" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_love.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_person.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_search_new.xml" value="0.22412280701754386" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_star.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/ic_star_white.xml" value="0.1206140350877193" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/drawable/round_it.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/activity_book_detail.xml" value="0.25" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/activity_book_detail2.xml" value="0.25" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/activity_book_list_after_click.xml" value="0.25" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/activity_clicked_reviews.xml" value="0.25" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/activity_flash.xml" value="0.264" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/activity_login.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/activity_new_menu.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/activity_sample.xml" value="0.264" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/add_review.xml" value="0.264" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/author_list_item.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/book_list_item.xml" value="0.4" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/book_list_item2.xml" value="0.264" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/comment_list_item.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/content_clicked_reviews.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/favourites_book_item.xml" value="0.536" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/fragement_home_2.xml" value="0.264" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/fragment_details_paged.xml" value="0.25" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/fragment_favourites.xml" value="0.1" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/fragment_recos.xml" value="0.176" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/fragment_related_paged.xml" value="0.4" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/fragment_reviews_paged.xml" value="0.264" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/layout/recours_book_item.xml" value="0.264" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/menu/details_menu.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/mipmap-xxhdpi/ic_launcher.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia-new/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia/app/src/main/res/drawable/background_selections.xml" value="0.22412280701754386" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia/app/src/main/res/layout/activity_goodreads.xml" value="0.2074561403508772" />
+        <entry key="..\:/Users/ANKIT/AndroidStudioProjects/Bookpedia/app/src/main/res/layout/fragment_favourites.xml" value="0.21052631578947367" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

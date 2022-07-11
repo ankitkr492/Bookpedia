@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_bgtop"
+    tools:context=".AboutActivity">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/p_about"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginHorizontal="8dp"
+        app:cardElevation="50dp"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bookpedia"
+            android:textStyle="bold"
+            android:textSize="35dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/colorPrimary"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A Book Rating and Review App"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:layout_marginTop="60dp"
+            android:textColor="@color/black"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mobile Application Development (ITE 1016)"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:layout_marginTop="100dp"
+            android:textColor="@color/black"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="B. Tech – Information Technology and Engineering"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:layout_marginTop="130dp"
+            android:textColor="@color/black"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Under the Guidance of Dr. Srinivasan P Associate Professor, SITE"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:layout_marginTop="180dp"
+            android:textColor="@color/black"
+            android:textAlignment="center"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/dev1"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_margin="15dp"
+        app:cardElevation="20dp"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/p_about">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/ankit_image"
+            app:civ_border_width="1dp"
+            app:civ_border_color="#FFF"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_camera"
+            android:layout_marginLeft="10dp"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="35dp"
+            android:layout_marginLeft="120dp"
+            android:text="Ankit Kumar"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="19BIT0267"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="65dp"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/dev2"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_margin="15dp"
+        app:cardElevation="20dp"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/dev1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        >
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/rohit_image"
+            app:civ_border_width="1dp"
+            app:civ_border_color="#FFF"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_camera"
+            android:layout_marginLeft="10dp"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="35dp"
+            android:layout_marginLeft="120dp"
+            android:text="Rohit Karthik"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="19BIT0318"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="65dp"/>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/dev3"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_margin="15dp"
+        app:cardElevation="20dp"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/dev2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/justin_image"
+            app:civ_border_width="1dp"
+            app:civ_border_color="#FFF"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_camera"
+            android:layout_marginLeft="10dp"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="35dp"
+            android:layout_marginLeft="120dp"
+            android:text="Justin Sunu Thomas"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="19BIT0344"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="65dp"/>
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
